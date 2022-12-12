@@ -1,0 +1,1 @@
+cmd_/home/student/git/NOS/dz2/lab2b/shofer.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/student/git/NOS/dz2/lab2b/shofer.ko /home/student/git/NOS/dz2/lab2b/shofer.o /home/student/git/NOS/dz2/lab2b/shofer.mod.o;  true
